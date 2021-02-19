@@ -1,0 +1,6 @@
+C:\Users\JARGS\Documents\Visual Studio 2015\Projects\100DaysOfCode\100DaysOfCode_WCF\100DaysOfCode_WCF\bin\100DaysOfCode_WCF.dll.config
+C:\Users\JARGS\Documents\Visual Studio 2015\Projects\100DaysOfCode\100DaysOfCode_WCF\100DaysOfCode_WCF\bin\100DaysOfCode_WCF.dll
+C:\Users\JARGS\Documents\Visual Studio 2015\Projects\100DaysOfCode\100DaysOfCode_WCF\100DaysOfCode_WCF\bin\100DaysOfCode_WCF.pdb
+C:\Users\JARGS\Documents\Visual Studio 2015\Projects\100DaysOfCode\100DaysOfCode_WCF\100DaysOfCode_WCF\obj\Debug\100DaysOfCode_WCF.csprojResolveAssemblyReference.cache
+C:\Users\JARGS\Documents\Visual Studio 2015\Projects\100DaysOfCode\100DaysOfCode_WCF\100DaysOfCode_WCF\obj\Debug\100DaysOfCode_WCF.dll
+C:\Users\JARGS\Documents\Visual Studio 2015\Projects\100DaysOfCode\100DaysOfCode_WCF\100DaysOfCode_WCF\obj\Debug\100DaysOfCode_WCF.pdb

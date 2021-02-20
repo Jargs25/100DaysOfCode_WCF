@@ -147,7 +147,7 @@ namespace _100DaysOfCode_WCF
                 Producto newProducto = new Producto(
                     dt.Rows[i].ItemArray[2].ToString(),
                     Convert.ToInt32(dt.Rows[i].ItemArray[3]),
-                    Convert.ToInt32(dt.Rows[i].ItemArray[4])
+                    Convert.ToDouble(dt.Rows[i].ItemArray[4])
                     );
                 newProducto.id = Convert.ToInt32(dt.Rows[i].ItemArray[0]);
                 newProducto.codigo = dt.Rows[i].ItemArray[1].ToString();
